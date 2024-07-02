@@ -22,6 +22,7 @@
     <a href="https://tailwindcss.com">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
     </a>
+  <br/>
     <a href="https://www.mongodb.com">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
     </a>
