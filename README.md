@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## 🧐 About
+
+- 🏄‍ Community guy who loves being involved in communities and help students grow
+- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
+- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
+- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
+- 👯 And Many More...
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -36,12 +43,6 @@
     </p>
 </div>
 
-## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
 
 
