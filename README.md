@@ -1,6 +1,4 @@
-<a >
-<img src="https://i.ibb.co/kyD5KNy/freepik-export-202407021017357-Sxk.jpg" />
-</a>
+
 
 
 ## 🧐 About
