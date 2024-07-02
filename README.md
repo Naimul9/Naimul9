@@ -10,12 +10,14 @@
 - **Full-Stack Projects**: *Developed and deployed multiple full-stack applications, demonstrating proficiency in integrating frontend and backend technologies to create seamless user experiences.*
 - **Collaborative Development**: *Active contributor to open-source projects and collaborative coding environments on GitHub, showcasing teamwork, version control (Git), and effective project management.*
 - 👯 And Many More...
+  
 
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Naimul9&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
 
 ## :computer: Technologies that I know
 
