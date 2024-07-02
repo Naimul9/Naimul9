@@ -1,4 +1,6 @@
-
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+</a>
 ## 🧐 About
 
 - **Proficient in Frontend Technologies** : *Skilled in HTML, CSS, JavaScript, and popular frameworks such as React.js and Tailwind CSS for building responsive and interactive user interfaces.*
