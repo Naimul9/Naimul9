@@ -1,5 +1,5 @@
 <a >
-<img src="https://i.ibb.co/TY2jS3M/DALL-E-2024-07-02-15-26-23-A-banner-image-for-a-Junior-MERN-Stack-Developer-The-banner-should-includ.webp" />
+<img src="https://i.ibb.co/M813Zph/freepik-export-202407021001366-Xe5.jpg" />
 </a>
 
 
