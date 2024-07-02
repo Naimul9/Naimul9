@@ -9,13 +9,29 @@
 ## :computer: Technologies that I know
 
 <br>
+<div style="text-align: center;">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+    </a>
+</div>
 
- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
 
 
