@@ -23,6 +23,7 @@
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
     </a>
   <br/>
+  <p>
     <a href="https://www.mongodb.com">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
     </a>
@@ -32,6 +33,7 @@
     <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
     </a>
+    </p>
 </div>
 
 
