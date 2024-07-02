@@ -1,10 +1,10 @@
 
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
+- Proficient in Frontend Technologies: Skilled in HTML, CSS, JavaScript, and popular frameworks such as React.js and Tailwind CSS for building responsive and interactive user interfaces.
+- Backend Development: Experience with Node.js and Express.js for developing robust backend services and APIs, along with MongoDB for database management.
+- Full-Stack Projects: Developed and deployed multiple full-stack applications, demonstrating proficiency in integrating frontend and backend technologies to create seamless user experiences.
+- Collaborative Development: Active contributor to open-source projects and collaborative coding environments on GitHub, showcasing teamwork, version control (Git), and effective project management.
 - 👯 And Many More...
 
 ## :chart_with_upwards_trend: Current Stats
