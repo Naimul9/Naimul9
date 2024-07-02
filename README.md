@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![My Skills](https://skillicons.dev/icons"html")]
 </p>
 <p align="center">
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
