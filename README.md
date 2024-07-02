@@ -9,7 +9,7 @@
 ## :computer: Technologies that I know
 
 <br>
-<div style="text-align: center;">
+<div style="align: center;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
