@@ -11,8 +11,11 @@
 <br>
 
  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
+
 
