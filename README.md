@@ -10,25 +10,25 @@
 
 <br>
 <div align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://www.w3schools.com/html">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://www.w3schools.com/css">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://www.w3schools.com/js">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://tailwindcss.com">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://www.mongodb.com">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://expressjs.com">
         <img src="https://skillicons.dev/icons?i=express" alt="Express">
     </a>
-    <a href="https://skillicons.dev">
+    <a href="https://nodejs.org/en">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
     </a>
 </div>
