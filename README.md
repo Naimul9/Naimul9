@@ -1,7 +1,7 @@
 
 ## 🧐 About
 
-- Proficient in Frontend Technologies: Skilled in HTML, CSS, JavaScript, and popular frameworks such as React.js and Tailwind CSS for building responsive and interactive user interfaces.
+- ##Proficient in Frontend Technologies: Skilled in HTML, CSS, JavaScript, and popular frameworks such as React.js and Tailwind CSS for building responsive and interactive user interfaces.
 - Backend Development: Experience with Node.js and Express.js for developing robust backend services and APIs, along with MongoDB for database management.
 - Full-Stack Projects: Developed and deployed multiple full-stack applications, demonstrating proficiency in integrating frontend and backend technologies to create seamless user experiences.
 - Collaborative Development: Active contributor to open-source projects and collaborative coding environments on GitHub, showcasing teamwork, version control (Git), and effective project management.
