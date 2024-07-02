@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Junior MERN Stack Developer](https://i.ibb.co/znwhGb0/freepik-export-20240702125547i-HSj.jpg)
+![Junior MERN Stack Developer](https://i.ibb.co/zxK252Y/freepik-export-20240702125803q-Wk-Y.jpg)
 
 I am a Junior MERN Stack Developer passionate about building full-stack applications with MongoDB, Express, React, and Node.js.
 
