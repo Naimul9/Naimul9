@@ -1,6 +1,8 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<a >
+<img src="https://i.ibb.co/TY2jS3M/DALL-E-2024-07-02-15-26-23-A-banner-image-for-a-Junior-MERN-Stack-Developer-The-banner-should-includ.webp" />
 </a>
+
+
 ## 🧐 About
 
 - **Proficient in Frontend Technologies** : *Skilled in HTML, CSS, JavaScript, and popular frameworks such as React.js and Tailwind CSS for building responsive and interactive user interfaces.*
