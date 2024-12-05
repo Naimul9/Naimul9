@@ -46,7 +46,7 @@ I am a Junior MERN Stack Developer passionate about building full-stack applicat
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
     </a>
   <a href="https://www.mongoose.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongoose" alt="Mongoose">
+    <img src="https://skillicons.dev/icons?i=mongoosejs" alt="Mongoose">
 </a>
     <a href="https://expressjs.com">
         <img src="https://skillicons.dev/icons?i=express" alt="Express">
